@@ -11,9 +11,15 @@ namespace TestGitRebase
         static void Main(string[] args)
         {
             Method1();
+            Method2();
         }
 
         static void Method1()
+        {
+            Console.WriteLine("Method2");
+        }
+
+        static void Method2()
         {
             Console.WriteLine("Method2");
         }
