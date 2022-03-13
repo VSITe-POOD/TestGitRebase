@@ -10,6 +10,13 @@ namespace TestGitRebase
     {
         static void Main(string[] args)
         {
+            Method1();
         }
+
+        static void Method1()
+        {
+            Console.WriteLine("Method1");
+        }
+
     }
 }
