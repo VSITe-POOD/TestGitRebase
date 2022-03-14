@@ -12,6 +12,7 @@ namespace TestGitRebase
         {
             JSribar();
             JSribar1();
+            LGregoric();
         }
 
         static void JSribar()
@@ -22,6 +23,11 @@ namespace TestGitRebase
         static void JSribar1()
         {
             Console.WriteLine("My name is Julijan1 Šribar1");
+        }
+
+        static void LGregoric()
+        {
+            Console.WriteLine("My name is Luka Gregorić");
         }
     }
 }
