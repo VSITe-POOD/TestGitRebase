@@ -15,7 +15,11 @@ namespace TestGitRebase
             RHaramincic();
             VCagalj();
             ABrkic();
+            AVrljic();
+            
         }
+
+        
 
         static void JSribar()
         {
@@ -59,6 +63,12 @@ namespace TestGitRebase
         static void ABrkic()
         {
             Console.WriteLine("My name is Antonio Brkić");
+        }
+
+        static void AVrljic()
+        {
+            Console.WriteLine("My name is Andrea Vrljic");
+
         }
     }
 }
