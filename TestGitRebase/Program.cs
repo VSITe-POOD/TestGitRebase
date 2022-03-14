@@ -14,9 +14,9 @@ namespace TestGitRebase
             Method2();
         }
 
-        static void Method1()
+        static void LeonP()
         {
-            Console.WriteLine("Method2");
+            Console.WriteLine("My name is Leon Pleslić");
         }
 
         static void Method2()
