@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TestGitRebase
 {
@@ -13,6 +9,7 @@ namespace TestGitRebase
             JSribar();
             JSribar1();
             LGregoric();
+            BRados();
         }
 
         static void JSribar()
@@ -28,6 +25,11 @@ namespace TestGitRebase
         static void LGregoric()
         {
             Console.WriteLine("My name is Luka Gregorić");
+        }
+
+        static void BRados()
+        {
+            Console.WriteLine("My name is Branko Rados");
         }
     }
 }
