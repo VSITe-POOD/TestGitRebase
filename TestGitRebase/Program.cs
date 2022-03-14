@@ -12,7 +12,16 @@ namespace TestGitRebase
         {
             Method1();
             Method2();
+
+            DStojanovic();
+
         }
+
+        static void DStojanovic()
+        {
+            Console.WriteLine("My name is Damir Stojanović");
+        }
+
 
         static void Method1()
         {
