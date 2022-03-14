@@ -10,7 +10,7 @@ namespace TestGitRebase
     {
         static void Main(string[] args)
         {
-            Method1();
+            LeonP();
             Method2();
         }
 
