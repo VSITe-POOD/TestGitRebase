@@ -11,6 +11,7 @@ namespace TestGitRebase
             LGregoric();
             BRados();
             PPavicic();
+            ISpanja();
         }
 
         static void JSribar()
@@ -36,6 +37,10 @@ namespace TestGitRebase
         static void PPavicic()
         {
             Console.WriteLine("My name is Pavle Pavičić");
+        }
+        static void ISpanja()
+        {
+            Console.WriteLine("My name is Ivan Schpanja");
         }
     }
 }
