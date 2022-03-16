@@ -16,7 +16,8 @@ namespace TestGitRebase
             VCagalj();
             ABrkic();
             AVrljic();
-            
+            AJuric();
+
         }
 
         
@@ -68,7 +69,11 @@ namespace TestGitRebase
         static void AVrljic()
         {
             Console.WriteLine("My name is Andrea Vrljic");
+        }
 
+        static void AJuric()
+        {
+            Console.WriteLine("My name is Anđela Jurić");
         }
     }
 }
