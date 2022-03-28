@@ -37,6 +37,7 @@ namespace TestGitRebase
         static void LGregoric()
         {
             Console.WriteLine("My name is Luka Gregorić");
+            Console.WriteLine("I do not live in Zagreb.");
         }
 
         static void BRados()
