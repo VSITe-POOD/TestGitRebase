@@ -20,7 +20,7 @@ namespace TestGitRebase
 
         }
 
-        
+
 
         static void JSribar()
         {
@@ -44,6 +44,7 @@ namespace TestGitRebase
         static void BRados()
         {
             Console.WriteLine("My name is Branko Rados");
+            Console.WriteLine("I live in Zagreb");
         }
 
         static void PPavicic()
