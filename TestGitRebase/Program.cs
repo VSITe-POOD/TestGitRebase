@@ -82,6 +82,7 @@ namespace TestGitRebase
         static void AJuric()
         {
             Console.WriteLine("My name is Anđela Jurić");
+            Console.WriteLine("I live in Zagreb.");
         }
     }
 }
