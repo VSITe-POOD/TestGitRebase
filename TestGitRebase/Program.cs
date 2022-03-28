@@ -85,6 +85,7 @@ namespace TestGitRebase
         {
             Console.WriteLine("My name is Anđela Jurić");
             Console.WriteLine("I live in Zagreb.");
+            Console.WriteLine("I was born in Zadar.");
         }
     }
 }
