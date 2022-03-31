@@ -70,6 +70,7 @@ namespace TestGitRebase
         {
             Console.WriteLine("My name is Vicko Čagalj");
             Console.WriteLine("I live in Zagreb");
+            Console.WriteLine("I was born in Split");
         }
 
         static void ABrkic()
