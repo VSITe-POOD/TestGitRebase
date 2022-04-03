@@ -19,6 +19,7 @@ namespace TestGitRebase
             AJuric();
             MKocelj();
             ISokolovic();
+            IMidzic();
         }
 
 
@@ -116,6 +117,12 @@ namespace TestGitRebase
             Console.WriteLine("My name is Ivan Sokolović");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Zagreb");
+        }
+
+        static void IMidzic()
+        {
+            Console.WriteLine("My name is Ida Midžić");
+            Console.WriteLine("I live in Zagreb");            
         }
     }
 }
