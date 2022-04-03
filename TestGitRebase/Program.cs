@@ -122,7 +122,8 @@ namespace TestGitRebase
         static void IMidzic()
         {
             Console.WriteLine("My name is Ida Midžić");
-            Console.WriteLine("I live in Zagreb");            
+            Console.WriteLine("I live in Zagreb");
+            Console.WriteLine("I was born in Zadar");
         }
     }
 }
