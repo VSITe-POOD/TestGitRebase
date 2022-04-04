@@ -28,6 +28,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Julijan Šribar");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Brežice");
+            Console.WriteLine("My favorite movie is 'Who's singing there'");
         }
 
         static void JSribar1()
