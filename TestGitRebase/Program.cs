@@ -41,6 +41,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Luka Gregorić");
             Console.WriteLine("I do not live in Zagreb.");
             Console.WriteLine("I was born in Zagreb.");
+            Console.WriteLine("My favourite movie is Inglorious Basterds.");
         }
 
         static void BRados()
