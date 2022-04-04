@@ -53,6 +53,8 @@ namespace TestGitRebase
         static void PPavicic()
         {
             Console.WriteLine("My name is Pavle Pavičić");
+            Console.WriteLine("I live in Sveta Nedelja");
+            Console.WriteLine("I was born in Zagreb");
         }
         static void ISpanja()
         {
