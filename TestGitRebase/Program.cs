@@ -20,6 +20,7 @@ namespace TestGitRebase
             MKocelj();
             ISokolovic();
             IMidzic();
+	    KPogacic();
         }
 
 
@@ -130,6 +131,14 @@ namespace TestGitRebase
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Zadar");
             Console.WriteLine("My favorite movie is Alien vs. Predator");
+        }
+	
+	static void KPogacic()
+        {
+            Console.WriteLine("My name is Kata Pogacic");
+            Console.WriteLine("I live in Zagreb");
+            Console.WriteLine("I was born in Split");
+            Console.WriteLine("My favourite movie is...");
         }
     }
 }
