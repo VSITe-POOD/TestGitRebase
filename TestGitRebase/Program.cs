@@ -49,6 +49,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Branko Rados");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Zagreb");
+            Console.WriteLine("My favorite movie is Duga mracna noc");
         }
 
         static void PPavicic()
