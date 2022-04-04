@@ -107,6 +107,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Ivan Sokolović");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Zagreb");
+            Console.WriteLine("My favorite movie is Sharknado 6");
         }
     }
 }
