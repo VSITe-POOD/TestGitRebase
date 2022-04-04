@@ -63,6 +63,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Ivan Schpanja");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Sibenik");
+            Console.WriteLine("My favourite movie is Who's singing there");
         }
 
         static void RHaramincic()
