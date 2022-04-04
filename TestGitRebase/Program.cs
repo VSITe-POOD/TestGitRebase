@@ -98,6 +98,8 @@ namespace TestGitRebase
             Console.WriteLine("My name is Andrea Vrljic");
             Console.WriteLine("I do not live in Zagreb.");
             Console.WriteLine("I was born in Slavonski Brod.");
+            Console.WriteLine("I do not have favourite movie");
+        
         }
 
         static void AJuric()
