@@ -108,6 +108,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Anđela Jurić");
             Console.WriteLine("I live in Zagreb.");
             Console.WriteLine("I was born in Zadar.");
+            Console.WriteLine("My favourite movie is Little women.");
         }
 
         static void MKocelj()
