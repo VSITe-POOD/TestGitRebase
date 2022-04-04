@@ -87,6 +87,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Antonio Brkić");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Zadar");
+            Console.WriteLine("My favorite movie is Limitless");
         }
 
         static void AVrljic()
