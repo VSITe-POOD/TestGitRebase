@@ -29,6 +29,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Julijan Šribar");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Brežice");
+            Console.WriteLine("My favorite movie is 'Who's singing there'");
         }
 
         static void JSribar1()
@@ -41,6 +42,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Luka Gregorić");
             Console.WriteLine("I do not live in Zagreb.");
             Console.WriteLine("I was born in Zagreb.");
+            Console.WriteLine("My favourite movie is Inglorious Basterds.");
         }
 
         static void BRados()
@@ -53,12 +55,16 @@ namespace TestGitRebase
         static void PPavicic()
         {
             Console.WriteLine("My name is Pavle Pavičić");
+            Console.WriteLine("I live in Sveta Nedelja");
+            Console.WriteLine("I was born in Zagreb");
+            Console.WriteLine("My favorite movie is Django Unchained");
         }
         static void ISpanja()
         {
             Console.WriteLine("My name is Ivan Schpanja");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Sibenik");
+            Console.WriteLine("My favourite movie is Who's singing there");
         }
 
         static void RHaramincic()
