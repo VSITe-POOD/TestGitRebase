@@ -82,6 +82,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Vicko Čagalj");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Split");
+            Console.WriteLine("My favorite movie is Lord of the Rings: The Return of the King");
         }
 
         static void ABrkic()
