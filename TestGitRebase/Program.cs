@@ -55,6 +55,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Pavle Pavičić");
             Console.WriteLine("I live in Sveta Nedelja");
             Console.WriteLine("I was born in Zagreb");
+            Console.WriteLine("My favorite movie is Django Unchained");
         }
         static void ISpanja()
         {
