@@ -111,6 +111,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Mato Kocelj");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Dubrovnik");
+            Console.WriteLine("My favorite movie is Who");
         }
 
         static void ISokolovic()
