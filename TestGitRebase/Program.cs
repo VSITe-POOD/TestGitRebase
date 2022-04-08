@@ -125,6 +125,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Ida Midžić");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Zadar");
+            Console.WriteLine("My favorite movie is Alien vs. Predator");
         }
     }
 }
