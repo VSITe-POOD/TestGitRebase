@@ -42,13 +42,14 @@ namespace TestGitRebase
 			Console.WriteLine("My name is Julijan1 Šribar1");
 		}
 
-		static void LGregoric()
-		{
-			Console.WriteLine("My name is Luka Gregorić");
-			Console.WriteLine("I do not live in Zagreb.");
-			Console.WriteLine("I was born in Zagreb.");
-			Console.WriteLine("My favourite movie is Inglorious Basterds.");
-		}
+        static void LGregoric()
+        {
+            Console.WriteLine("My name is Luka Gregorić");
+            Console.WriteLine("I do not live in Zagreb.");
+            Console.WriteLine("I was born in Zagreb.");
+            Console.WriteLine("My favourite movie is Inglorious Basterds.");
+            Console.WriteLine("My favourite food is Babke kod Elvisa");
+        }
 
         static void BRados()
         {
