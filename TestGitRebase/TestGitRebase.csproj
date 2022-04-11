@@ -38,6 +38,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LGregoricClass.cs" />
     <Compile Include="ABrkicClass.cs" />
     <Compile Include="ISpanjaClass.cs" />
     <Compile Include="JSribarClass.cs" />

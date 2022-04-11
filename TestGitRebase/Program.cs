@@ -49,6 +49,8 @@ namespace TestGitRebase
             Console.WriteLine("I was born in Zagreb.");
             Console.WriteLine("My favourite movie is Inglorious Basterds.");
             Console.WriteLine("My favourite food is Babke kod Elvisa");
+
+            LGregoricClass.Present();
         }
 
         static void BRados()
