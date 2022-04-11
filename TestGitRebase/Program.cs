@@ -32,6 +32,7 @@ namespace TestGitRebase
             Console.WriteLine("I was born in Brežice");
             Console.WriteLine("My favorite movie is 'Who's singing there'");
             Console.WriteLine("Something");
+            Console.WriteLine("My favorite food are pancakes");
         }
 
         static void JSribar1()
