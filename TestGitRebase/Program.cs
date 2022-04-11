@@ -80,6 +80,8 @@ namespace TestGitRebase
             Console.WriteLine("Born in Zagreb!");
             Console.WriteLine("My favorite movie is Jahali pješice");
             Console.WriteLine("My favorite food is burger");
+
+            RHaramincicClass.Present();
         }
 
         static void VCagalj()
