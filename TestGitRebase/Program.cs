@@ -98,13 +98,14 @@ namespace TestGitRebase
 			Console.WriteLine("My favorite movie is Lord of the Rings: The Return of the King");
 		}
 
-		static void ABrkic()
-		{
-			Console.WriteLine("My name is Antonio Brkić");
-			Console.WriteLine("I live in Zagreb");
-			Console.WriteLine("I was born in Zadar");
-			Console.WriteLine("My favorite movie is Limitless");
-		}
+        static void ABrkic()
+        {
+            Console.WriteLine("My name is Antonio Brkić");
+            Console.WriteLine("I live in Zagreb");
+            Console.WriteLine("I was born in Zadar");
+            Console.WriteLine("My favorite movie is Limitless");
+            Console.WriteLine("My favorite food are shrimps");
+        }
 
 		static void AVrljic()
 		{
