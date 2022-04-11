@@ -33,6 +33,8 @@ namespace TestGitRebase
             Console.WriteLine("My favorite movie is 'Who's singing there'");
             Console.WriteLine("Something");
             Console.WriteLine("My favorite food are pancakes");
+
+            JSribarClass.Present();
         }
 
         static void JSribar1()
