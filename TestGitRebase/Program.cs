@@ -57,6 +57,8 @@ namespace TestGitRebase
             Console.WriteLine("I was born in Zagreb");
             Console.WriteLine("My favorite movie is Duga mracna noc");
             Console.WriteLine("My favorite food is lamb");
+
+            BRadosClass.Present();
         }
 
 		static void PPavicic()
