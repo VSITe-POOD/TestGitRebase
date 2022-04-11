@@ -78,7 +78,8 @@ namespace TestGitRebase
             Console.WriteLine("My name is Robert Haraminčić");
             Console.WriteLine("Staying alive in Velika Gorica!");
             Console.WriteLine("Born in Zagreb!");
-            Console.WriteLine("My favourite movie is Jahali pješice");
+            Console.WriteLine("My favorite movie is Jahali pješice");
+            Console.WriteLine("My favorite food is burger");
         }
 
         static void VCagalj()
