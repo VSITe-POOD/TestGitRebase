@@ -19,6 +19,8 @@ namespace TestGitRebase
             AJuric();
             MKocelj();
             ISokolovic();
+            IMidzic();
+	    KPogacic();
         }
 
 
@@ -29,6 +31,7 @@ namespace TestGitRebase
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Brežice");
             Console.WriteLine("My favorite movie is 'Who's singing there'");
+            Console.WriteLine("Something");
         }
 
         static void JSribar1()
@@ -41,6 +44,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Luka Gregorić");
             Console.WriteLine("I do not live in Zagreb.");
             Console.WriteLine("I was born in Zagreb.");
+            Console.WriteLine("My favourite movie is Inglorious Basterds.");
         }
 
         static void BRados()
@@ -48,17 +52,22 @@ namespace TestGitRebase
             Console.WriteLine("My name is Branko Rados");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Zagreb");
+            Console.WriteLine("My favorite movie is Duga mracna noc");
         }
 
         static void PPavicic()
         {
             Console.WriteLine("My name is Pavle Pavičić");
+            Console.WriteLine("I live in Sveta Nedelja");
+            Console.WriteLine("I was born in Zagreb");
+            Console.WriteLine("My favorite movie is Django Unchained");
         }
         static void ISpanja()
         {
             Console.WriteLine("My name is Ivan Schpanja");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Sibenik");
+            Console.WriteLine("My favourite movie is Who's singing there");
         }
 
         static void RHaramincic()
@@ -66,6 +75,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Robert Haraminčić");
             Console.WriteLine("Staying alive in Velika Gorica!");
             Console.WriteLine("Born in Zagreb!");
+            Console.WriteLine("My favourite movie is Jahali pješice");
         }
 
         static void VCagalj()
@@ -73,6 +83,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Vicko Čagalj");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Split");
+            Console.WriteLine("My favorite movie is Lord of the Rings: The Return of the King");
         }
 
         static void ABrkic()
@@ -80,6 +91,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Antonio Brkić");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Zadar");
+            Console.WriteLine("My favorite movie is Limitless");
         }
 
         static void AVrljic()
@@ -87,6 +99,8 @@ namespace TestGitRebase
             Console.WriteLine("My name is Andrea Vrljic");
             Console.WriteLine("I do not live in Zagreb.");
             Console.WriteLine("I was born in Slavonski Brod.");
+            Console.WriteLine("I do not have favourite movie");
+        
         }
 
         static void AJuric()
@@ -94,6 +108,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Anđela Jurić");
             Console.WriteLine("I live in Zagreb.");
             Console.WriteLine("I was born in Zadar.");
+            Console.WriteLine("My favourite movie is Little women.");
         }
 
         static void MKocelj()
@@ -101,6 +116,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Mato Kocelj");
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Dubrovnik");
+            Console.WriteLine("My favorite movie is Who");
         }
 
         static void ISokolovic()
@@ -109,6 +125,22 @@ namespace TestGitRebase
             Console.WriteLine("I live in Zagreb");
             Console.WriteLine("I was born in Zagreb");
             Console.WriteLine("My favorite movie is Sharknado 6");
+        }
+
+        static void IMidzic()
+        {
+            Console.WriteLine("My name is Ida Midžić");
+            Console.WriteLine("I live in Zagreb");
+            Console.WriteLine("I was born in Zadar");
+            Console.WriteLine("My favorite movie is Alien vs. Predator");
+        }
+	
+	static void KPogacic()
+        {
+            Console.WriteLine("My name is Kata Pogacic");
+            Console.WriteLine("I live in Zagreb");
+            Console.WriteLine("I was born in Split");
+            Console.WriteLine("My favourite movie is...");
         }
     }
 }
