@@ -124,6 +124,8 @@ namespace TestGitRebase
 			Console.WriteLine("I was born in Dubrovnik");
 			Console.WriteLine("My favorite movie is Who");
 			Console.WriteLine("My favourite food is pršut");
+
+            MKoceljClass.Present();
 		}
 
 		static void ISokolovic()
