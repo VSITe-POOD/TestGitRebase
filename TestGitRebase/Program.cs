@@ -71,6 +71,7 @@ namespace TestGitRebase
 			Console.WriteLine("I live in Zagreb");
 			Console.WriteLine("I was born in Sibenik");
 			Console.WriteLine("My favourite movie is Who's singing there");
+			Console.WriteLine("My favorite food are pancakes");
 		}
 
         static void RHaramincic()
