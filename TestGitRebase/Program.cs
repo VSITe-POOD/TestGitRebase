@@ -105,6 +105,7 @@ namespace TestGitRebase
             Console.WriteLine("I was born in Zadar");
             Console.WriteLine("My favorite movie is Limitless");
             Console.WriteLine("My favorite food are shrimps");
+            ABrkicClass.Present();
         }
 
 		static void AVrljic()
