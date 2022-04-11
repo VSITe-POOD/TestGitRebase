@@ -38,6 +38,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AJuricClass.cs" />
     <Compile Include="IMidzicClass.cs" />
     <Compile Include="LGregoricClass.cs" />
     <Compile Include="ABrkicClass.cs" />
