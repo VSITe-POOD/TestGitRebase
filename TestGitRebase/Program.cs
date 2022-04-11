@@ -120,13 +120,14 @@ namespace TestGitRebase
 		
 		}
 
-		static void AJuric()
-		{
-			Console.WriteLine("My name is Anđela Jurić");
-			Console.WriteLine("I live in Zagreb.");
-			Console.WriteLine("I was born in Zadar.");
-			Console.WriteLine("My favourite movie is Little women.");
-		}
+        static void AJuric()
+        {
+            Console.WriteLine("My name is Anđela Jurić");
+            Console.WriteLine("I live in Zagreb.");
+            Console.WriteLine("I was born in Zadar.");
+            Console.WriteLine("My favourite movie is Little women.");
+            Console.WriteLine("My favourite food is janje.");
+        }
 
 		static void MKocelj()
 		{
