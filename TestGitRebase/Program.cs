@@ -50,13 +50,14 @@ namespace TestGitRebase
 			Console.WriteLine("My favourite movie is Inglorious Basterds.");
 		}
 
-		static void BRados()
-		{
-			Console.WriteLine("My name is Branko Rados");
-			Console.WriteLine("I live in Zagreb");
-			Console.WriteLine("I was born in Zagreb");
-			Console.WriteLine("My favorite movie is Duga mracna noc");
-		}
+        static void BRados()
+        {
+            Console.WriteLine("My name is Branko Rados");
+            Console.WriteLine("I live in Zagreb");
+            Console.WriteLine("I was born in Zagreb");
+            Console.WriteLine("My favorite movie is Duga mracna noc");
+            Console.WriteLine("My favorite food is lamb");
+        }
 
 		static void PPavicic()
 		{
