@@ -154,6 +154,8 @@ namespace TestGitRebase
 			Console.WriteLine("I was born in Zadar");
 			Console.WriteLine("My favorite movie is Alien vs. Predator");
 			Console.WriteLine("My favorite food is chicken");
+
+			IMidzicClass.Present();
 		}
 	
 	    static void KPogacic()
