@@ -153,6 +153,7 @@ namespace TestGitRebase
 			Console.WriteLine("I live in Zagreb");
 			Console.WriteLine("I was born in Zadar");
 			Console.WriteLine("My favorite movie is Alien vs. Predator");
+			Console.WriteLine("My favorite food is chicken");
 		}
 	
 	    static void KPogacic()
