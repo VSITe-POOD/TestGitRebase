@@ -70,6 +70,9 @@ namespace TestGitRebase
 			Console.WriteLine("I live in Sveta Nedelja");
 			Console.WriteLine("I was born in Zagreb");
 			Console.WriteLine("My favorite movie is Django Unchained");
+			Console.WriteLine("My favorite food are fried chicken, mashed potatoes and spinach.");
+
+			PPavicicClass.Present();
 		}
 		static void ISpanja()
 		{
